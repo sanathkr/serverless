@@ -23,3 +23,5 @@ Resources:
           Properties:
             Path: /
             Method: get
+
+      Tracing: Active
